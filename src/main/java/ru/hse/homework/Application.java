@@ -16,7 +16,7 @@ import java.util.Scanner;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
-public class App {
+public class Application {
 
     private static final int CODE_RETURN_FROM_APP = 1;
     private static final int CODE_COMPLETE_ADD_PHONE_NUMBER = 1;
